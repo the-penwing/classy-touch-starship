@@ -1,6 +1,6 @@
-# Gruvbox Clean Starship Propmt
+# Gruvbox Clean Starship Prompt
 
-[Starship](https://starship.rs/) propmt inspired by a oh-my-zsh theme called classyTouch
+[Starship](https://starship.rs/) prompt inspired by a oh-my-zsh theme called classyTouch
 
 ## Current Features
 
@@ -16,8 +16,8 @@
   - Named Virtual Enviroment
   - Version
 - Success Notifcation
-  - Red Full Propmt on Success
-  - Orange Shorter Propmt on Fail
+  - Red Full Prompt on Success
+  - Orange Shorter Prompt on Fail
 - Maybe More that I've forgotten
 
 ![photo](screenshot.png)
