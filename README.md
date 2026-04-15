@@ -1,4 +1,4 @@
-# Gruvbox Minimal Starship Propmt
+# Gruvbox Clean Starship Propmt
 
 [Starship](https://starship.rs/) propmt inspired by a oh-my-zsh theme called classyTouch
 
