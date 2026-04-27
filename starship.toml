@@ -93,12 +93,12 @@ conflicted = "[~](red)"
 
 [python]
 format = '\[[${symbol}${version}](brightyellow)\][(\[$virtualenv\])]($style)'
-symbol = '[󰌠](brightyellow)'
+symbol = '[󰌠 ](brightyellow)'
 style = 'fg1'
 version_format = "v${raw}"
 
 [nix_shell]
-symbol = '[](brightgreen)'
+symbol = '[ ](brightgreen)'
 style = 'fg1'
 impure_msg = '[impure](brightred)'
 pure_msg = '[pure](brightgreen)'
